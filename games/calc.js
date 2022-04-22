@@ -3,10 +3,10 @@ import randInt from '../lib/randint.js';
 export const description = 'What is the result of the expression?';
 
 export const getQuestionAndAnswer = () => {
-  const a = randInt(10);
-  const b = randInt(10);
+  const a = randInt(1, 10);
+  const b = randInt(1, 10);
   const operations = ['+', '-', '*'];
-  const operation = operations[randInt(2)];
+  const operation = operations[randInt(0, 2)];
 
   const question = `${a} ${operation} ${b}`;
 

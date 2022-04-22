@@ -29,3 +29,7 @@
 ### Определение наибольшего общего делителя
 
 [![asciicast](https://asciinema.org/a/xPJuxXd0vd06CofvQnGHormwy.svg)](https://asciinema.org/a/xPJuxXd0vd06CofvQnGHormwy)
+
+### Прогрессия
+
+[![asciicast](https://asciinema.org/a/IrqOpLBqciF2DXNdufB97v3di.svg)](https://asciinema.org/a/IrqOpLBqciF2DXNdufB97v3di)
