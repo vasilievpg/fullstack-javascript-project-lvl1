@@ -8,7 +8,7 @@ unlink:
 	npm unlink -g
 
 publish:
-	sudo npm publish --dry-run
+	npm publish --dry-run
 
 brain-games:
 	node bin/brain-games.js

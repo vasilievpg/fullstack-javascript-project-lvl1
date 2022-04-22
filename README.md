@@ -19,7 +19,13 @@
 ## Демонстрация
 
 ### Определение четного числа
+
 [![asciicast](https://asciinema.org/a/T51MGqAJkVkCnmK9agfOxP9Yd.svg)](https://asciinema.org/a/T51MGqAJkVkCnmK9agfOxP9Yd)
 
 ### Калькулятор
+
 [![asciicast](https://asciinema.org/a/0cXczvUUtezF3HELxEslOxxHM.svg)](https://asciinema.org/a/0cXczvUUtezF3HELxEslOxxHM)
+
+### Определение наибольшего общего делителя
+
+[![asciicast](https://asciinema.org/a/xPJuxXd0vd06CofvQnGHormwy.svg)](https://asciinema.org/a/xPJuxXd0vd06CofvQnGHormwy)

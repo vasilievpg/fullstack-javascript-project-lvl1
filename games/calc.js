@@ -25,5 +25,5 @@ export const getQuestionAndAnswer = () => {
     default:
       break;
   }
-  return [question, String(answer)];
+  return [question, answer.toString()];
 };
