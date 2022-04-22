@@ -33,3 +33,7 @@
 ### Прогрессия
 
 [![asciicast](https://asciinema.org/a/IrqOpLBqciF2DXNdufB97v3di.svg)](https://asciinema.org/a/IrqOpLBqciF2DXNdufB97v3di)
+
+### Определение простого числа
+
+[![asciicast](https://asciinema.org/a/gLmD2zYuGaimgUMRvhxRqj6g6.svg)](https://asciinema.org/a/gLmD2zYuGaimgUMRvhxRqj6g6)
